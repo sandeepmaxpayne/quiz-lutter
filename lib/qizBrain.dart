@@ -11,11 +11,11 @@ class QuizBrain {
     Question(q: 'Sandeep Dutta was always an idiot.', a: false),
     Question(
         q: 'Touchstone from \'As you Like It\' was a motley fool.', a: true),
-    Question(q: 'Pinky Dutta was always an idiot.', a: true),
+    Question(q: 'India is a country.', a: true),
     Question(q: 'Did earth blast in 2020.', a: false),
     Question(q: 'Pig is dirty.', a: true),
     Question(q: 'Chickens eat man.', a: false),
-    Question(q: 'Lucifer Morning Star is a hell God.', a: true),
+    Question(q: 'Lucifer Morning is the fallen angel', a: true),
     Question(q: 'Hitler was a good dictator.', a: false),
   ];
 
